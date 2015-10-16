@@ -1,4 +1,4 @@
-Ottawa{
+{
 "type": "FeatureCollection",
 "features": [
 { "type": "Feature", "properties": { "GMI_ADMIN": "GBR-SCT", "FIPS_CNTRY": "UK", "CNTRY_NAME": "United Kingdom", "POP_RANK": 5, "ADMIN_NAME": "Scotland", "STATUS": "Other", "PORT_ID": 32170, "CITY_NAME": "Dundee", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -2.966700, 56.466702 ] } }
@@ -2659,7 +2659,7 @@ Ottawa{
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "JAM-SJA", "FIPS_CNTRY": "JM", "CNTRY_NAME": "Jamaica", "POP_RANK": 6, "ADMIN_NAME": "Saint James", "STATUS": "Provincial capital", "PORT_ID": 10610, "CITY_NAME": "Montego Bay", "POP_CLASS": "50,000 to 100,000" }, "geometry": { "type": "Point", "coordinates": [ -77.920998, 18.469000 ] } }
 ,
-{ "type": "Feature", "properties": { "GMI_ADMIN": "DOM-SPD", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 5, "ADMIN_NAME": "San Pedro de Macor¡s", "STATUS": "Provincial capital", "PORT_ID": 11030, "CITY_NAME": "San Pedro De Macoris", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -69.307999, 18.455999 ] } }
+{ "type": "Feature", "properties": { "GMI_ADMIN": "DOM-SPD", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 5, "ADMIN_NAME": "San Pedro de Macor�s", "STATUS": "Provincial capital", "PORT_ID": 11030, "CITY_NAME": "San Pedro De Macoris", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -69.307999, 18.455999 ] } }
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "DOM-AZU", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 7, "ADMIN_NAME": "Azua", "STATUS": "Provincial capital", "PORT_ID": 0, "CITY_NAME": "Azua", "POP_CLASS": "Less than 50,000" }, "geometry": { "type": "Point", "coordinates": [ -70.728996, 18.454000 ] } }
 ,
