@@ -1,4 +1,4 @@
-{
+Ottawa{
 "type": "FeatureCollection",
 "features": [
 { "type": "Feature", "properties": { "GMI_ADMIN": "GBR-SCT", "FIPS_CNTRY": "UK", "CNTRY_NAME": "United Kingdom", "POP_RANK": 5, "ADMIN_NAME": "Scotland", "STATUS": "Other", "PORT_ID": 32170, "CITY_NAME": "Dundee", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -2.966700, 56.466702 ] } }
@@ -1092,6 +1092,8 @@
 { "type": "Feature", "properties": { "GMI_ADMIN": "ITA-VEN", "FIPS_CNTRY": "IT", "CNTRY_NAME": "Italy", "POP_RANK": 4, "ADMIN_NAME": "Veneto", "STATUS": "Other", "PORT_ID": 40760, "CITY_NAME": "Venice", "POP_CLASS": "250,000 to 500,000" }, "geometry": { "type": "Point", "coordinates": [ 12.370720, 45.424774 ] } }
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "CAN-ONT", "FIPS_CNTRY": "CA", "CNTRY_NAME": "Canada", "POP_RANK": 4, "ADMIN_NAME": "Ontario", "STATUS": "National capital", "PORT_ID": 2520, "CITY_NAME": "Ottawa", "POP_CLASS": "250,000 to 500,000" }, "geometry": { "type": "Point", "coordinates": [ -75.651001, 45.374001 ] } }
+,
+{ "type": "Feature", "properties": { "GMI_ADMIN": "CAN-ONT", "FIPS_CNTRY": "CA", "CNTRY_NAME": "Canada", "POP_RANK": 3, "ADMIN_NAME": "Ontario", "STATUS": "National capital", "PORT_ID": 2521, "CITY_NAME": "Ottawa", "POP_CLASS": "250,000 to 500,000" }, "geometry": { "type": "Point", "coordinates": [ -75.651001, 45.374001 ] } }
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "ROM-BRA", "FIPS_CNTRY": "RO", "CNTRY_NAME": "Romania", "POP_RANK": 5, "ADMIN_NAME": "Braila", "STATUS": "Provincial capital", "PORT_ID": 43590, "CITY_NAME": "Braila", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ 27.969000, 45.292000 ] } }
 ,
@@ -2657,7 +2659,7 @@
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "JAM-SJA", "FIPS_CNTRY": "JM", "CNTRY_NAME": "Jamaica", "POP_RANK": 6, "ADMIN_NAME": "Saint James", "STATUS": "Provincial capital", "PORT_ID": 10610, "CITY_NAME": "Montego Bay", "POP_CLASS": "50,000 to 100,000" }, "geometry": { "type": "Point", "coordinates": [ -77.920998, 18.469000 ] } }
 ,
-{ "type": "Feature", "properties": { "GMI_ADMIN": "DOM-SPD", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 5, "ADMIN_NAME": "San Pedro de Macor¡s", "STATUS": "Provincial capital", "PORT_ID": 11030, "CITY_NAME": "San Pedro De Macoris", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -69.307999, 18.455999 ] } }
+{ "type": "Feature", "properties": { "GMI_ADMIN": "DOM-SPD", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 5, "ADMIN_NAME": "San Pedro de MacorÂ¡s", "STATUS": "Provincial capital", "PORT_ID": 11030, "CITY_NAME": "San Pedro De Macoris", "POP_CLASS": "100,000 to 250,000" }, "geometry": { "type": "Point", "coordinates": [ -69.307999, 18.455999 ] } }
 ,
 { "type": "Feature", "properties": { "GMI_ADMIN": "DOM-AZU", "FIPS_CNTRY": "DR", "CNTRY_NAME": "Dominican Republic", "POP_RANK": 7, "ADMIN_NAME": "Azua", "STATUS": "Provincial capital", "PORT_ID": 0, "CITY_NAME": "Azua", "POP_CLASS": "Less than 50,000" }, "geometry": { "type": "Point", "coordinates": [ -70.728996, 18.454000 ] } }
 ,
